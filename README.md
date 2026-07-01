@@ -1,4 +1,3 @@
-
 # Global Superstore Business Performance Analysis
 ## Project Overview
 
